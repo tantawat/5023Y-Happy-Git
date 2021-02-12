@@ -1,6 +1,7 @@
 ---
 title: "Some cool animal facts"
 author: "Philip Leftwich"
+edited by: "Tantawat"
 output: html_document
 ---
 
@@ -56,6 +57,18 @@ knitr::opts_chunk$set(echo = TRUE)
 - Can rotate their hind feet 180 degrees to climb better
 - They are not endangered, just very elusive
 - Closely related to raccoons
+
+
+#### Baby Yoda
+
+![Yoda before he aged](img/yoda.jpg)
+
+##### Some baby yoda facts facts 
+
+- Super cute
+- Green but different species fro Shrek
+
+
 
 ###
 
